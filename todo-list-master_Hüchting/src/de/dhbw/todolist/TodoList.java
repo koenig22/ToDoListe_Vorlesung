@@ -32,6 +32,7 @@ public class TodoList {
 
     //Liste ausgeben
     System.out.println(l1);
+    //Hat Commit funktioniert
 
   }
 }
