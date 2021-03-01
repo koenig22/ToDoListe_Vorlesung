@@ -32,7 +32,7 @@ public class TodoList {
 
     //Liste ausgeben
     System.out.println(l1);
-    //Hat Commit funktioniert
+    System.out.println("Was ein krampf die Einstellung von Git war...");
 
   }
 }
